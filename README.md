@@ -2,7 +2,7 @@
 
 Job Board in C# , WinForms.
 
-JobBoard is a personal project based on an earlier school asignment. 
+JobBoard is a personal project based on an earlier school assignment. 
 It's a job board done in C# with Winforms (Windows Forms), with a DAL, BO AND UI.
 
 it's coded in layers:
